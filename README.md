@@ -39,7 +39,6 @@ The virtual screening successfully identified highly potent candidates with exce
 
 ![NSC618827 Interactions](images/image2.png)
 
-## 🚀 Future Perspectives
 
 ## 🚀 Future Perspectives
 
