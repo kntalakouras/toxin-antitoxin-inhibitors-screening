@@ -40,6 +40,17 @@ The virtual screening successfully identified highly potent candidates with exce
 ![NSC618827 Interactions](images/image2.png)
 
 ## 🚀 Future Perspectives
+
+## 🚀 Future Perspectives
+
+The identification of these two highly promising hit compounds (NSC633091 and NSC618827) with exceptional Glide scores provides a strong foundation for the development of novel antimicrobial adjuvants. By effectively inhibiting the endoribonuclease activity of Toxin-Antitoxin systems, these molecules hold the potential to disrupt the transition of bacteria into the dormant "persister cell" state, offering a targeted strategy to combat multidrug resistance and chronic infections.
+
+To advance this *in-silico* pipeline towards clinical relevance, the following next steps are proposed:
+
+* **Molecular Dynamics (MD) Simulations:** Conducting rigorous MD simulations (e.g., 100-500 ns) to evaluate the long-term thermodynamic stability, conformational flexibility, and dynamic behavior of the protein-ligand complexes in a realistic solvated environment.
+* **Hit-to-Lead Optimization:** Performing Structure-Activity Relationship (SAR) studies to further enhance the binding affinity and optimize the pharmacokinetic (ADMET) profile of the identified compounds.
+* **In-Vitro Validation:** Evaluating the efficacy of these compounds through experimental enzymatic assays to confirm target inhibition, followed by microbiological assays in bacterial cultures to quantify the reduction in persister cell formation under stress conditions.
+
 ## 📂 Data 
 The raw structural data used in this study (protein targets) are available in the repository. You can access the prepared PDB files here:
 * [MazF Toxin - 1UB4](data/1UB4.pdb)
